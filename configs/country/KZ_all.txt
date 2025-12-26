@@ -1,0 +1,30 @@
+# 🇰🇿 KZ - All Configurations
+# Updated: 2025-12-26 19:23:39
+# Total: 20
+
+
+# VLESS (14)
+vless://dc1ddb9c-487f-4e68-93c4-39cd33545d91@91.217.10.166:9443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api.avito.ru&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
+vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@kz.accesspoints.cloakify.app:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#ARISTA🔥
+vless://dfd30304-9c58-4ff4-8ba0-b70af154fbc9@151.236.93.44:3443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ir-2.ozone.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#ARISTA🔥
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@maxru.outlinekeys.net:443?security=reality&encryption=none&pbk=zkeQCEkz7LlrzwzeG26Ae_HEk3_QlgM9CbiWJx5iWh0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=maxru.outlinekeys.net#ARISTA🔥
+vless://3ffb4328-756c-417c-a150-d121c87e0e03@212-wl.connect-iskra.ru:443?security=reality&encryption=none&pbk=ZO899qaKEicyJ6SIDe06c_590Tvq0Cc_D-rZ6ihKzl4&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=40544906b5c4603d#ARISTA🔥
+vless://cd15201c-4fc4-4ae0-b632-cd44563d8508@151.236.93.245:443?security=reality&encryption=none&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ir-2.ozone.ru&sid=a1b2c3d4e5f6789a#ARISTA🔥
+vless://cd15201c-4fc4-4ae0-b632-cd44563d8508@151.236.93.248:443?security=reality&encryption=none&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ir-2.ozone.ru&sid=a1b2c3d4e5f6789a#ARISTA🔥
+vless://dc1ddb9c-487f-4e68-93c4-39cd33545d91@91.217.10.166:9443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api.avito.ru&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
+vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@kz.accesspoints.cloakify.app:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#ARISTA🔥
+vless://dfd30304-9c58-4ff4-8ba0-b70af154fbc9@151.236.93.44:3443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ir-2.ozone.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#ARISTA🔥
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@maxru.outlinekeys.net:443?security=reality&encryption=none&pbk=zkeQCEkz7LlrzwzeG26Ae_HEk3_QlgM9CbiWJx5iWh0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=maxru.outlinekeys.net#ARISTA🔥
+vless://3ffb4328-756c-417c-a150-d121c87e0e03@212-wl.connect-iskra.ru:443?security=reality&encryption=none&pbk=ZO899qaKEicyJ6SIDe06c_590Tvq0Cc_D-rZ6ihKzl4&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=40544906b5c4603d#ARISTA🔥
+vless://cd15201c-4fc4-4ae0-b632-cd44563d8508@151.236.93.245:443?security=reality&encryption=none&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ir-2.ozone.ru&sid=a1b2c3d4e5f6789a#ARISTA🔥
+vless://cd15201c-4fc4-4ae0-b632-cd44563d8508@151.236.93.248:443?security=reality&encryption=none&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ir-2.ozone.ru&sid=a1b2c3d4e5f6789a#ARISTA🔥
+
+# VMESS (2)
+vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0Ijo4MCwicHMiOiJBUklTVEHwn5SlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsIm5hbWUiOiI+PkB2bWVzc2lyYW46OlhYIn0=
+vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0Ijo4MCwicHMiOiJBUklTVEHwn5SlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsIm5hbWUiOiI+PkB2bWVzc2lyYW46OlhYIn0=
+
+# SS (4)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@109.61.39.28:990#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.159.250.190:990#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@109.61.39.28:990#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.159.250.190:990#ARISTA🔥

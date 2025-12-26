@@ -1,0 +1,28 @@
+# 🇨🇦 CA - HYSTERIA2
+# Updated: 2025-12-26 19:23:39
+# Count: 24
+
+hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.83.110:45979?security=tls&insecure=1&sni=www.bing.com#ARISTA🔥
+hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.103.51:47262?security=tls&insecure=1&sni=www.bing.com#ARISTA🔥
+hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@129.153.59.26:30300?insecure=1&sni=www.bing.com#ARISTA🔥
+hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.103.51:47262?insecure=1&sni=www.bing.com#ARISTA🔥
+hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.83.110:45979?insecure=1&sni=www.bing.com#ARISTA🔥
+hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@129.153.59.26:30300?security=tls&insecure=1&sni=www.bing.com#ARISTA🔥
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.238.137.165:30102?sni=du.wish.ml&insecure=1#ARISTA🔥
+hysteria2://7d417084-d308-4b35-96c8-99dfb2547ec2@140.238.137.165:30102?security=tls&insecure=1&sni=du.wish.ml#ARISTA🔥
+hysteria2://7d417084-d308-4b35-96c8-99dfb2547ec2@40.233.76.38:30102?security=tls&insecure=1&sni=du.wish.ml#ARISTA🔥
+hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@155.248.223.115:45979?security=tls&insecure=1&sni=www.bing.com#ARISTA🔥
+hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.70.163:45979?security=tls&insecure=1&sni=www.bing.com#ARISTA🔥
+hysteria2://d16515cb-814d-43bd-8a0c-ecc91a34c2c0@xjp.kaixincloud.top:25200?sni=xjp.kaixincloud.top&mport=25200-26200#ARISTA🔥
+hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.83.110:45979?security=tls&insecure=1&sni=www.bing.com#ARISTA🔥
+hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.103.51:47262?security=tls&insecure=1&sni=www.bing.com#ARISTA🔥
+hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@129.153.59.26:30300?insecure=1&sni=www.bing.com#ARISTA🔥
+hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.103.51:47262?insecure=1&sni=www.bing.com#ARISTA🔥
+hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.83.110:45979?insecure=1&sni=www.bing.com#ARISTA🔥
+hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@129.153.59.26:30300?security=tls&insecure=1&sni=www.bing.com#ARISTA🔥
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.238.137.165:30102?sni=du.wish.ml&insecure=1#ARISTA🔥
+hysteria2://7d417084-d308-4b35-96c8-99dfb2547ec2@140.238.137.165:30102?security=tls&insecure=1&sni=du.wish.ml#ARISTA🔥
+hysteria2://7d417084-d308-4b35-96c8-99dfb2547ec2@40.233.76.38:30102?security=tls&insecure=1&sni=du.wish.ml#ARISTA🔥
+hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@155.248.223.115:45979?security=tls&insecure=1&sni=www.bing.com#ARISTA🔥
+hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.70.163:45979?security=tls&insecure=1&sni=www.bing.com#ARISTA🔥
+hysteria2://d16515cb-814d-43bd-8a0c-ecc91a34c2c0@xjp.kaixincloud.top:25200?sni=xjp.kaixincloud.top&mport=25200-26200#ARISTA🔥

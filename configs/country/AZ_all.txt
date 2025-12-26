@@ -1,0 +1,8 @@
+# 🇦🇿 AZ - All Configurations
+# Updated: 2025-12-26 19:23:39
+# Total: 2
+
+
+# VLESS (2)
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?path=/#ARISTA🔥
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?path=/#ARISTA🔥

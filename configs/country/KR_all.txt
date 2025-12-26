@@ -1,0 +1,36 @@
+# 🇰🇷 KR - All Configurations
+# Updated: 2025-12-26 19:23:39
+# Total: 26
+
+
+# VLESS (4)
+vless://5d42cfef-0556-4f0c-bfb7-161aef500ab5@222.102.51.111:51698/?type=grpc&encryption=none&flow=&sni=lenovoglobal.com&fp=chrome&security=reality&pbk=PPZbDAYSwCYnPCF8BxguTFfAAZTnLnzpsHePCkGZYxo&sid=34#ARISTA🔥
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@srv12.outlinekeys.com:8443?mode=auto&path=%2Fapi%2Fv2%2Fupdates&security=reality&encryption=none&extra=%7Bmode%3Dstream-up%2C%20xmux%3D%7BcMaxReuseTimes%3D64-128%2C%20maxConcurrency%3D8-16%2C%20maxConnections%3D0.0%2C%20hKeepAlivePeriod%3D0.0%2C%20hMaxRequestTimes%3D400-600%2C%20hMaxReusableSecs%3D1800-3600%7D%2C%20noSSEHeader%3Dfalse%2C%20noGRPCHeader%3Dfalse%2C%20xPaddingBytes%3D100-1000%2C%20scMaxBufferedPosts%3D30.0%2C%20scMaxEachPostBytes%3D500000-1000000%2C%20scMinPostsIntervalMs%3D10-50%2C%20scStreamUpServerSecs%3D30-90%7D&pbk=zJ2Zy8TDKJU0usrZ061Jbjn1jpatD-uAqkUdbtCVMlQ&spx=%2F&type=xhttp&sni=01.img.avito.st#ARISTA🔥
+vless://5d42cfef-0556-4f0c-bfb7-161aef500ab5@222.102.51.111:51698/?type=grpc&encryption=none&flow=&sni=lenovoglobal.com&fp=chrome&security=reality&pbk=PPZbDAYSwCYnPCF8BxguTFfAAZTnLnzpsHePCkGZYxo&sid=34#ARISTA🔥
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@srv12.outlinekeys.com:8443?mode=auto&path=%2Fapi%2Fv2%2Fupdates&security=reality&encryption=none&extra=%7Bmode%3Dstream-up%2C%20xmux%3D%7BcMaxReuseTimes%3D64-128%2C%20maxConcurrency%3D8-16%2C%20maxConnections%3D0.0%2C%20hKeepAlivePeriod%3D0.0%2C%20hMaxRequestTimes%3D400-600%2C%20hMaxReusableSecs%3D1800-3600%7D%2C%20noSSEHeader%3Dfalse%2C%20noGRPCHeader%3Dfalse%2C%20xPaddingBytes%3D100-1000%2C%20scMaxBufferedPosts%3D30.0%2C%20scMaxEachPostBytes%3D500000-1000000%2C%20scMinPostsIntervalMs%3D10-50%2C%20scStreamUpServerSecs%3D30-90%7D&pbk=zJ2Zy8TDKJU0usrZ061Jbjn1jpatD-uAqkUdbtCVMlQ&spx=%2F&type=xhttp&sni=01.img.avito.st#ARISTA🔥
+
+# HYSTERIA2 (16)
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@158.180.77.90:30102?security=tls&insecure=1#ARISTA🔥
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.245.68.133:30102?security=tls&insecure=1#ARISTA🔥
+hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@cc1.mangshe.xyz:2056?insecure=1&sni=cc1.mangshe.xyz#ARISTA🔥
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.245.68.133:30102?insecure=1#ARISTA🔥
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@158.180.77.90:30102?insecure=1#ARISTA🔥
+hysteria2://72aaf68b-fca5-48fa-9ba3-b0a6fb9990d2@jskr.mmaccc.top:31059?sni=jskr.mmaccc.top&insecure=1#ARISTA🔥
+hysteria2://MxiGoEDnLJELZicwCXwsADPdF4@43.201.45.216:29609?insecure=1&sni=bing.com#ARISTA🔥
+hysteria2://MxiGoEDnLJELZicwCXwsADPdF4@43.201.45.216:29609?security=tls&insecure=1&sni=bing.com#ARISTA🔥
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@158.180.77.90:30102?security=tls&insecure=1#ARISTA🔥
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.245.68.133:30102?security=tls&insecure=1#ARISTA🔥
+hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@cc1.mangshe.xyz:2056?insecure=1&sni=cc1.mangshe.xyz#ARISTA🔥
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.245.68.133:30102?insecure=1#ARISTA🔥
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@158.180.77.90:30102?insecure=1#ARISTA🔥
+hysteria2://72aaf68b-fca5-48fa-9ba3-b0a6fb9990d2@jskr.mmaccc.top:31059?sni=jskr.mmaccc.top&insecure=1#ARISTA🔥
+hysteria2://MxiGoEDnLJELZicwCXwsADPdF4@43.201.45.216:29609?insecure=1&sni=bing.com#ARISTA🔥
+hysteria2://MxiGoEDnLJELZicwCXwsADPdF4@43.201.45.216:29609?security=tls&insecure=1&sni=bing.com#ARISTA🔥
+
+# VMESS (6)
+vmess://eyJhZGQiOiJtc2lhd2RmZ3ouNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoidHRhc2ZzZ3dyLjc2ODk4MTAyLnh5eiIsImlkIjoiNWY5YzdiZGEtMzNmOS0zZGQwLWJjZjUtYWNhMzI0NDE4ZTMxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2J2ZGZ5dWV1c2YiLCJwb3J0IjoxMTgyNywicHMiOiJBUklTVEHwn5SlIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
+vmess://eyJhZGQiOiI0OS4xMjguMjE5LjIxMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzYzlkMDEyMy02NjIxLTQ0OGUtYjIzMi00NTQ3ZDQ3NjA1MmUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvemx2cTVlIiwicG9ydCI6IjM4MjY1IiwicHMiOiJBUklTVEHwn5SlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJzZW91bDAzLnpnam9rLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic2VvdWwwMy56Z2pvay5jb20iLCJpZCI6IjcyYTBkYWM0LTk2ODktNGE1Ny1iMTY0LTVjNjViZmE5NDc3MiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoiQVJJU1RB8J+UpSIsInNjeSI6ImF1dG8iLCJzbmkiOiJzZW91bDAzLnpnam9rLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsIm5hbWUiOiI+PkBTaGFkb3dzb2Nrc006OlhYOjpYWDo6WFg6OlhYOjpYWCJ9
+vmess://eyJhZGQiOiJtc2lhd2RmZ3ouNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoidHRhc2ZzZ3dyLjc2ODk4MTAyLnh5eiIsImlkIjoiNWY5YzdiZGEtMzNmOS0zZGQwLWJjZjUtYWNhMzI0NDE4ZTMxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2J2ZGZ5dWV1c2YiLCJwb3J0IjoxMTgyNywicHMiOiJBUklTVEHwn5SlIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
+vmess://eyJhZGQiOiI0OS4xMjguMjE5LjIxMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzYzlkMDEyMy02NjIxLTQ0OGUtYjIzMi00NTQ3ZDQ3NjA1MmUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvemx2cTVlIiwicG9ydCI6IjM4MjY1IiwicHMiOiJBUklTVEHwn5SlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJzZW91bDAzLnpnam9rLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic2VvdWwwMy56Z2pvay5jb20iLCJpZCI6IjcyYTBkYWM0LTk2ODktNGE1Ny1iMTY0LTVjNjViZmE5NDc3MiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoiQVJJU1RB8J+UpSIsInNjeSI6ImF1dG8iLCJzbmkiOiJzZW91bDAzLnpnam9rLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsIm5hbWUiOiI+PkBTaGFkb3dzb2Nrc006OlhYOjpYWDo6WFg6OlhYOjpYWCJ9

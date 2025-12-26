@@ -1,0 +1,8 @@
+# 🇸🇨 SC - All Configurations
+# Updated: 2025-12-26 19:23:39
+# Total: 2
+
+
+# HYSTERIA2 (2)
+hysteria2://ab03173b-78ce-4f6c-a839-3729318763a1@154.91.180.38:27093?security=tls&insecure=1#ARISTA🔥
+hysteria2://ab03173b-78ce-4f6c-a839-3729318763a1@154.91.180.38:27093?security=tls&insecure=1#ARISTA🔥
