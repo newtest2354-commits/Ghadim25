@@ -18,68 +18,79 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-      with:
-        fetch-depth: 0
-    
+      
     - name: Random delay
       run: sleep $((RANDOM % 300 + 60))
-    
+      
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.10'
-    
+        
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests beautifulsoup4 pycountry geoip2 maxminddb
-    
-    - name: Download GeoIP database
-      run: |
-        wget -q https://git.io/GeoLite2-Country.mmdb -O /tmp/GeoLite2-Country.mmdb
-        if [ ! -f /tmp/GeoLite2-Country.mmdb ]; then
-          echo "Downloading alternative GeoIP database..."
-          wget -q https://cdn.jsdelivr.net/npm/geolite2-country@1.0.2/GeoLite2-Country.mmdb -O /tmp/GeoLite2-Country.mmdb
-        fi
-    
+        pip install requests beautifulsoup4 geoip2
+        
     - name: Clean old config files
       run: |
         rm -rf configs/
         mkdir -p configs/telegram configs/github configs/combined configs/country
-    
+        
+    - name: Download GeoLite2 database
+      run: |
+        wget -q "https://git.io/GeoLite2-Country.mmdb" -O GeoLite2-Country.mmdb || true
+        if [ ! -f "GeoLite2-Country.mmdb" ]; then
+          echo "Using fallback GeoIP database"
+          wget -q "https://cdn.jsdelivr.net/gh/P3TERX/GeoLite.mmdb@latest/GeoLite2-Country.mmdb" -O GeoLite2-Country.mmdb
+        fi
+        
     - name: Run Telegram Config Extractor
       run: python telegram_extractor.py
       timeout-minutes: 20
-    
+        
     - name: Run GitHub Config Extractor
       run: python github_extractor.py
       timeout-minutes: 15
-    
+        
     - name: Combine Configs
       run: python combine_configs.py
-      timeout-minutes: 10
-    
+        
+    - name: Country Categorization
+      run: python country_categorizer.py
+        
     - name: Create summary
       run: |
         date > last_update.txt
         echo "Updated: $(date -u '+%Y-%m-%d %H:%M UTC')" > update_info.txt
-    
+        echo "Country categorized configs available in configs/country/" >> update_info.txt
+        
+    - name: Reorder directories
+      run: |
+        mkdir -p temp_configs
+        mv configs/combined temp_configs/
+        mv configs/github temp_configs/
+        mv configs/telegram temp_configs/
+        mv configs/country temp_configs/
+        rm -rf configs
+        mkdir -p configs
+        mv temp_configs/combined configs/
+        mv temp_configs/github configs/
+        mv temp_configs/telegram configs/
+        mv temp_configs/country configs/
+        rm -rf temp_configs
+        
     - name: Configure Git
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-    
-    - name: Pull latest changes
-      run: |
-        git pull origin main --rebase || true
-    
+        
     - name: Commit and push changes
       run: |
         git add .
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
-          git commit -m "🔄 Configs update $(date -u '+%Y-%m-%d %H:%M UTC')"
-          git pull origin main --rebase
-          git push origin main
+          git commit -m "🔄 Configs update $(date -u '+%Y-%m-%d %H:%M')"
+          git push
         fi
