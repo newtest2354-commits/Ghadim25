@@ -1,5 +1,5 @@
 # 🇵🇱 PL - HYSTERIA2
-# Updated: 2025-12-27 04:31:16
+# Updated: 2025-12-27 14:02:54
 # Count: 4
 
 hysteria2://75577117-ABCD-DCBA-AAAA-CC777775577B@s15.serv00.com:7777?insecure=1&sni=www.bing.com#ARISTA🔥

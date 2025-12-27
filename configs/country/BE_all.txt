@@ -1,12 +1,16 @@
 # 🇧🇪 BE - All Configurations
-# Updated: 2025-12-27 04:31:16
-# Total: 4
+# Updated: 2025-12-27 14:02:54
+# Total: 8
 
 
-# VLESS (2)
-vless://49040828-4f46-4b2c-b946-d9d93884d282@113.30.152.46:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
-vless://49040828-4f46-4b2c-b946-d9d93884d282@113.30.152.46:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
+# VLESS (4)
+vless://7503171c-a602-4663-b82f-88aaf1ce9992@auto.quattro-tech.ru:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&sid=43dcff53849b81e6#ARISTA🔥
+vless://7503171c-a602-4663-b82f-88aaf1ce9992@auto.quattro-tech.ru:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&sid=43dcff53849b81e6#ARISTA🔥
+vless://7503171c-a602-4663-b82f-88aaf1ce9992@auto.quattro-tech.ru:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&sid=43dcff53849b81e6#ARISTA🔥
+vless://7503171c-a602-4663-b82f-88aaf1ce9992@auto.quattro-tech.ru:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&sid=43dcff53849b81e6#ARISTA🔥
 
-# SS (2)
+# SS (4)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5YlU2b2FSVGFSN0hUc1ByRFdUNmhNNW55LTA0MWZ3YQ@113.30.152.46:8080#ARISTA🔥
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.249.78:989#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5YlU2b2FSVGFSN0hUc1ByRFdUNmhNNW55LTA0MWZ3YQ@113.30.152.46:8080#ARISTA🔥
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.249.78:989#ARISTA🔥

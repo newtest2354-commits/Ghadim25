@@ -1,5 +1,5 @@
 # 🇧🇷 BR - HYSTERIA2
-# Updated: 2025-12-27 04:31:16
+# Updated: 2025-12-27 14:02:54
 # Count: 4
 
 hysteria2://7d417084-d308-4b35-96c8-99dfb2547ec2@144.22.187.105:30102?security=tls&insecure=1&sni=br.wish.ml#ARISTA🔥

@@ -1,12 +1,18 @@
 # 🇭🇰 HK - TROJAN
-# Updated: 2025-12-27 04:31:16
-# Count: 8
+# Updated: 2025-12-27 14:02:54
+# Count: 14
 
 trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#ARISTA🔥
-trojan://BxceQaOe@203.198.84.221:443?sni=t.me%252Fripaojiedian#ARISTA🔥
 trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=t.me%2Fripaojiedian#ARISTA🔥
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@112.118.116.8:443?allowInsecure=0&sni=www.nintendogames.net#ARISTA🔥
+trojan://f36f4495b4b26cc2fe346cfa23e05b1b@18.162.244.22:4054?allowInsecure=1&sni=www.nintendogames.net#ARISTA🔥
+trojan://BxceQaOe@203.198.84.221:443?allowInsecure=1&sni=t.me%2Fripaojiedian#ARISTA🔥
+trojan://BxceQaOe@203.198.84.221:443?allowInsecure=1&amp;sni=t.me%2Fripaojiedian#ARISTA🔥
+trojan://BxceQaOe@203.198.84.221:443?allowInsecure=1&sni=t.me/ripaojiedian#ARISTA🔥
+trojan://f36f4495b4b26cc2fe346cfa23e05b1b@112.118.116.8:443?allowInsecure=0&sni=www.nintendogames.net#ARISTA🔥
 trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#ARISTA🔥
-trojan://BxceQaOe@203.198.84.221:443?sni=t.me%252Fripaojiedian#ARISTA🔥
 trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=t.me%2Fripaojiedian#ARISTA🔥
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@112.118.116.8:443?allowInsecure=0&sni=www.nintendogames.net#ARISTA🔥
+trojan://f36f4495b4b26cc2fe346cfa23e05b1b@18.162.244.22:4054?allowInsecure=1&sni=www.nintendogames.net#ARISTA🔥
+trojan://BxceQaOe@203.198.84.221:443?allowInsecure=1&sni=t.me%2Fripaojiedian#ARISTA🔥
+trojan://BxceQaOe@203.198.84.221:443?allowInsecure=1&amp;sni=t.me%2Fripaojiedian#ARISTA🔥
+trojan://BxceQaOe@203.198.84.221:443?allowInsecure=1&sni=t.me/ripaojiedian#ARISTA🔥
+trojan://f36f4495b4b26cc2fe346cfa23e05b1b@112.118.116.8:443?allowInsecure=0&sni=www.nintendogames.net#ARISTA🔥

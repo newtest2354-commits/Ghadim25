@@ -1,5 +1,5 @@
 # 🇦🇷 AR - VLESS
-# Updated: 2025-12-27 04:31:16
+# Updated: 2025-12-27 14:02:54
 # Count: 2
 
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@38.180.185.28:8443?security=reality&encryption=none&pbk=CWeNg8bNNdCHYhjNl01BTevvPnHsXd736dymoBEsbBI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com#ARISTA🔥

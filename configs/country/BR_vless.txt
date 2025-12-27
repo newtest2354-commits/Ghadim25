@@ -1,5 +1,5 @@
 # 🇧🇷 BR - VLESS
-# Updated: 2025-12-27 04:31:16
+# Updated: 2025-12-27 14:02:54
 # Count: 2
 
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@srv11.outlinekeys.com:8443?mode=auto&path=%2Fapi%2Fv2%2Fupdates&security=reality&encryption=none&extra=%7Bxmux%3D%7BcMaxReuseTimes%3D0.0%2C%20maxConcurrency%3D16-32%2C%20maxConnections%3D0.0%2C%20hKeepAlivePeriod%3D0.0%2C%20hMaxRequestTimes%3D600-900%2C%20hMaxReusableSecs%3D1800-3000%7D%2C%20headers%3D%7B%7D%2C%20noGRPCHeader%3Dfalse%2C%20xPaddingBytes%3D100-1000%2C%20scMaxEachPostBytes%3D1000000.0%2C%20scMinPostsIntervalMs%3D30.0%2C%20scStreamUpServerSecs%3D20-80%7D&pbk=zJ2Zy8TDKJU0usrZ061Jbjn1jpatD-uAqkUdbtCVMlQ&spx=%2F&type=xhttp&sni=01.img.avito.st#ARISTA🔥

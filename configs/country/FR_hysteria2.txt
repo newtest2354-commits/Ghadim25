@@ -1,10 +1,10 @@
 # 🇫🇷 FR - HYSTERIA2
-# Updated: 2025-12-27 04:31:16
+# Updated: 2025-12-27 14:02:54
 # Count: 36
 
 hysteria2://dongtaiwang.com@62.210.99.49:40088?insecure=1&sni=apple.com#ARISTA🔥
-hysteria2://de63b3fa-fb7c-4ddd-8b09-5973a30168c6@fg.zhujue.us:20501?security=tls&insecure=1&sni=fg.zhujue.us#ARISTA🔥
 hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&insecure=1&sni=www.bing.com#ARISTA🔥
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@51.178.55.157:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#ARISTA🔥
 hysteria2://yhqy5AHofQq@channel3.saghetalaie.homes:46914?security=tls&obfs=salamander&obfs-password=&O#ARISTA🔥
 hysteria2://dongtaiwang.com@195.154.206.231:33880?insecure=1&sni=apple.com#ARISTA🔥
 hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com#ARISTA🔥
@@ -21,8 +21,8 @@ hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&amp;insecure=1&amp;s
 hysteria2://dongtaiwang.com@51.159.111.32:5355?sni=www.bing.com&insecure=1#ARISTA🔥
 hysteria2://hB4rJIO80u@213.176.66.212:443?security=tls&obfs=salamander&obfs-password=hISsAP9leMiSkDtxwkTF6Pq2s&insecure=1&sni=www.whatsapp.com#ARISTA🔥
 hysteria2://dongtaiwang.com@62.210.99.49:40088?insecure=1&sni=apple.com#ARISTA🔥
-hysteria2://de63b3fa-fb7c-4ddd-8b09-5973a30168c6@fg.zhujue.us:20501?security=tls&insecure=1&sni=fg.zhujue.us#ARISTA🔥
 hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&insecure=1&sni=www.bing.com#ARISTA🔥
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@51.178.55.157:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#ARISTA🔥
 hysteria2://yhqy5AHofQq@channel3.saghetalaie.homes:46914?security=tls&obfs=salamander&obfs-password=&O#ARISTA🔥
 hysteria2://dongtaiwang.com@195.154.206.231:33880?insecure=1&sni=apple.com#ARISTA🔥
 hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com#ARISTA🔥

@@ -1,8 +1,9 @@
 # 🇫🇮 FI - HYSTERIA2
-# Updated: 2025-12-27 04:31:16
-# Count: 20
+# Updated: 2025-12-27 14:02:54
+# Count: 22
 
 hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914?security=tls&obfs=salamander&obfs-password=&O#ARISTA🔥
+hysteria2://freehomesvpnmahsa3@donate1.mahsa.homes:16396?security=tls&obfs=salamander&obfs-password=&O#ARISTA🔥
 hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914?insecure=1&sni=nalog.ru&obfs=salamander&obfs-password=&O#ARISTA🔥
 hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914?obfs=salamander&obfs-password=&O#ARISTA🔥
 hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914/?insecure=1&obfs=salamander&obfs-password=%26O%2328YB5qK%215t%23U&sni=www.google.com#ARISTA🔥
@@ -13,6 +14,7 @@ hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914?security=tls&o
 hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914?security=tls&obfs=salamander&obfs-password=%26O%2328YB5qK%215t%23U&insecure=1&sni=www.google.com#ARISTA🔥
 hysteria2://freehomesvpnmahsa3@donate1.mahsa.homes:16396?sni=www.google.com&obfs=salamander&obfs-password=%26O%2328YB5qK%215t%23U&insecure=1#ARISTA🔥
 hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914?security=tls&obfs=salamander&obfs-password=&O#ARISTA🔥
+hysteria2://freehomesvpnmahsa3@donate1.mahsa.homes:16396?security=tls&obfs=salamander&obfs-password=&O#ARISTA🔥
 hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914?insecure=1&sni=nalog.ru&obfs=salamander&obfs-password=&O#ARISTA🔥
 hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914?obfs=salamander&obfs-password=&O#ARISTA🔥
 hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914/?insecure=1&obfs=salamander&obfs-password=%26O%2328YB5qK%215t%23U&sni=www.google.com#ARISTA🔥

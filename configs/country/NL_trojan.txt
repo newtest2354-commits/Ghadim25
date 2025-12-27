@@ -1,6 +1,12 @@
 # 🇳🇱 NL - TROJAN
-# Updated: 2025-12-27 04:31:16
-# Count: 2
+# Updated: 2025-12-27 14:02:54
+# Count: 8
 
-trojan://tunnel-astrovpn_official028@45.112.192.29:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none&host=45.112.192.29#ARISTA🔥
-trojan://tunnel-astrovpn_official028@45.112.192.29:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none&host=45.112.192.29#ARISTA🔥
+trojan://870133af-bf3d-4ece-99a7-8a77bf2d3b40@veraams2.uspn.io:443/?type=ws&host=veraams2.uspn.io&path=%2Ftrojan&security=tls&sni=veraams2.uspn.io&allowInsecure=1#ARISTA🔥
+trojan://Ha8emXW0_NOSEAYTy7p-wIx.G9kg@167.17.70.62:12151?security=tls&sni=ads.x5.ru&type=tcp&headerType=none&path=/&allow_insecure=1#ARISTA🔥
+trojan://Szb=-Zguo53QhmivcJqEAWtpdPX6Y@95.179.183.126:13345?security=tls&sni=infiniteinjera.semanticstrainer.click&type=tcp&path=/#ARISTA🔥
+trojan://870133af-bf3d-4ece-99a7-8a77bf2d3b40@veraams2.uspn.io:443?type=ws&host=veraams2.uspn.io&path=/trojan&security=tls&sni=veraams2.uspn.io&allowInsecure=1#ARISTA🔥
+trojan://870133af-bf3d-4ece-99a7-8a77bf2d3b40@veraams2.uspn.io:443/?type=ws&host=veraams2.uspn.io&path=%2Ftrojan&security=tls&sni=veraams2.uspn.io&allowInsecure=1#ARISTA🔥
+trojan://Ha8emXW0_NOSEAYTy7p-wIx.G9kg@167.17.70.62:12151?security=tls&sni=ads.x5.ru&type=tcp&headerType=none&path=/&allow_insecure=1#ARISTA🔥
+trojan://Szb=-Zguo53QhmivcJqEAWtpdPX6Y@95.179.183.126:13345?security=tls&sni=infiniteinjera.semanticstrainer.click&type=tcp&path=/#ARISTA🔥
+trojan://870133af-bf3d-4ece-99a7-8a77bf2d3b40@veraams2.uspn.io:443?type=ws&host=veraams2.uspn.io&path=/trojan&security=tls&sni=veraams2.uspn.io&allowInsecure=1#ARISTA🔥

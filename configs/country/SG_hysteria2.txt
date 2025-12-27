@@ -1,5 +1,5 @@
 # 🇸🇬 SG - HYSTERIA2
-# Updated: 2025-12-27 04:31:16
+# Updated: 2025-12-27 14:02:54
 # Count: 28
 
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp2.mangshe.xyz:2060?security=tls&insecure=1&sni=xjp2.mangshe.xyz#ARISTA🔥

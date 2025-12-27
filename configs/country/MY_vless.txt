@@ -1,6 +1,0 @@
-# 🇲🇾 MY - VLESS
-# Updated: 2025-12-27 04:31:16
-# Count: 2
-
-vless://309fa273-6579-4cb2-9143-7cad50401eba@45.89.107.200:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#ARISTA🔥
-vless://309fa273-6579-4cb2-9143-7cad50401eba@45.89.107.200:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#ARISTA🔥

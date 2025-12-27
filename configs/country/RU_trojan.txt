@@ -1,0 +1,6 @@
+# 🇷🇺 RU - TROJAN
+# Updated: 2025-12-27 14:02:54
+# Count: 2
+
+trojan://VjXsgvA0s4@verarussia1.uspn.io:443/?type=ws&host=verarussia1.uspn.io&path=%2Ftrojan&security=tls&sni=verarussia1.uspn.io#ARISTA🔥
+trojan://VjXsgvA0s4@verarussia1.uspn.io:443/?type=ws&host=verarussia1.uspn.io&path=%2Ftrojan&security=tls&sni=verarussia1.uspn.io#ARISTA🔥

@@ -1,5 +1,5 @@
 # 🇸🇨 SC - HYSTERIA2
-# Updated: 2025-12-27 04:31:16
+# Updated: 2025-12-27 14:02:54
 # Count: 2
 
 hysteria2://ab03173b-78ce-4f6c-a839-3729318763a1@154.91.180.38:27093?security=tls&insecure=1#ARISTA🔥

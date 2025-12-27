@@ -1,0 +1,6 @@
+# 🇦🇺 AU - TROJAN
+# Updated: 2025-12-27 14:02:54
+# Count: 2
+
+trojan://FR8IHksUYg@170.64.132.131:8080?security=none&type=tcp&headerType=http&path=/#ARISTA🔥
+trojan://FR8IHksUYg@170.64.132.131:8080?security=none&type=tcp&headerType=http&path=/#ARISTA🔥
