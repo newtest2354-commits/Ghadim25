@@ -1,5 +1,5 @@
 # 🇫🇮 FI - HYSTERIA2
-# Updated: 2025-12-26 19:23:39
+# Updated: 2025-12-27 04:31:16
 # Count: 20
 
 hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914?security=tls&obfs=salamander&obfs-password=&O#ARISTA🔥

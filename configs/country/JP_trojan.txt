@@ -1,5 +1,5 @@
 # 🇯🇵 JP - TROJAN
-# Updated: 2025-12-26 19:23:39
+# Updated: 2025-12-27 04:31:16
 # Count: 12
 
 trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.229.223:3093?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp#ARISTA🔥

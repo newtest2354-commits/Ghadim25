@@ -1,17 +1,17 @@
 # 🇲🇽 MX - HYSTERIA2
-# Updated: 2025-12-26 19:23:39
+# Updated: 2025-12-27 04:31:16
 # Count: 16
 
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@moxige1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=moxige1.nezhasu.com#ARISTA🔥
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@gy5.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=gy5.nezhasu.com#ARISTA🔥
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@moxige1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=moxige1.nezhasu.com#ARISTA🔥
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@gy5.nezhasu.com:443?insecure=1&sni=gy5.nezhasu.com#ARISTA🔥
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@gy6.nezhasu.com:443?insecure=1&sni=gy6.nezhasu.com#ARISTA🔥
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@moxige1.nezhasu.com:443?insecure=1&sni=moxige1.nezhasu.com#ARISTA🔥
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@gy6.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=gy6.nezhasu.com#ARISTA🔥
 hysteria2://52d0cb21-56da-4f00-862f-be01b66446a8@gy6.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=gy6.nezhasu.com#ARISTA🔥
 hysteria2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@gy5.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=gy5.nezhasu.com#ARISTA🔥
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@moxige1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=moxige1.nezhasu.com#ARISTA🔥
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@gy5.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=gy5.nezhasu.com#ARISTA🔥
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@moxige1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=moxige1.nezhasu.com#ARISTA🔥
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@gy5.nezhasu.com:443?insecure=1&sni=gy5.nezhasu.com#ARISTA🔥
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@gy6.nezhasu.com:443?insecure=1&sni=gy6.nezhasu.com#ARISTA🔥
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@moxige1.nezhasu.com:443?insecure=1&sni=moxige1.nezhasu.com#ARISTA🔥

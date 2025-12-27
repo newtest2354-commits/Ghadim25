@@ -1,10 +1,10 @@
 # 🇯🇵 JP - VLESS
-# Updated: 2025-12-26 19:23:39
+# Updated: 2025-12-27 04:31:16
 # Count: 28
 
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-13.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#ARISTA🔥
+vless://fedb54b3-f7e6-4709-8af2-01208fd42ab7@109.61.109.55:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ign.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#ARISTA🔥
 vless://50043cb6-04ae-4d4c-8e95-72fd1eafcdf8@172.68.118.177:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3%2Ch2&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev#ARISTA🔥
-vless://f228db24-3602-4dd2-bdec-2d7faa61e70b@195.78.49.158:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&spx=%40KANFIG_RAYGan7&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#ARISTA🔥
 vless://ebd8539d-e249-4a39-8f90-e8585e8cc35e@116.80.44.144:27724/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.yahoo.co.jp&fp=chrome&security=reality&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&sid=#ARISTA🔥
 vless://f228db24-3602-4dd2-bdec-2d7faa61e70b@195.78.49.158:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#ARISTA🔥
 vless://b52fac66-fd92-47ae-b1f6-332aa1c353d9@57.180.50.81:37390?path=/xxhjphome&security=tls&encryption=none&insecure=0&host=xxh.ipipip.im&fp=chrome&type=ws&allowInsecure=0&sni=xxh.ipipip.im#ARISTA🔥
@@ -15,10 +15,10 @@ vless://f228db24-3602-4dd2-bdec-2d7faa61e70b@195.78.49.158:4443?security=reality
 vless://b29e92ab-ec3d-4776-88ed-aa8c804aa961@109.61.109.55:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#ARISTA🔥
 vless://f228db24-3602-4dd2-bdec-2d7faa61e70b@195.78.49.158:4443?security=reality&amp;encryption=none&amp;pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=github.com&amp;sid=aa7e96542880027a#ARISTA🔥
 vless://2c487d9d-25a1-4b79-aed1-086b8c3082ca@178.239.124.30:56482?security=reality&encryption=none&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudcircus.jp#ARISTA🔥
-vless://ebd8539d-e249-4a39-8f90-e8585e8cc35e@116.80.44.144:27724?security=reality&encryption=none&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.co.jp#ARISTA🔥
+vless://ebd8539d-e249-4a39-8f90-e8585e8cc35e@116.80.44.144:27724?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=reality&type=tcp&sni=www.yahoo.co.jp&fp=chrome&flow=xtls-rprx-vision&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&encryption=none#ARISTA🔥
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-13.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#ARISTA🔥
+vless://fedb54b3-f7e6-4709-8af2-01208fd42ab7@109.61.109.55:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ign.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#ARISTA🔥
 vless://50043cb6-04ae-4d4c-8e95-72fd1eafcdf8@172.68.118.177:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3%2Ch2&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev#ARISTA🔥
-vless://f228db24-3602-4dd2-bdec-2d7faa61e70b@195.78.49.158:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&spx=%40KANFIG_RAYGan7&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#ARISTA🔥
 vless://ebd8539d-e249-4a39-8f90-e8585e8cc35e@116.80.44.144:27724/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.yahoo.co.jp&fp=chrome&security=reality&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&sid=#ARISTA🔥
 vless://f228db24-3602-4dd2-bdec-2d7faa61e70b@195.78.49.158:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#ARISTA🔥
 vless://b52fac66-fd92-47ae-b1f6-332aa1c353d9@57.180.50.81:37390?path=/xxhjphome&security=tls&encryption=none&insecure=0&host=xxh.ipipip.im&fp=chrome&type=ws&allowInsecure=0&sni=xxh.ipipip.im#ARISTA🔥
@@ -29,4 +29,4 @@ vless://f228db24-3602-4dd2-bdec-2d7faa61e70b@195.78.49.158:4443?security=reality
 vless://b29e92ab-ec3d-4776-88ed-aa8c804aa961@109.61.109.55:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#ARISTA🔥
 vless://f228db24-3602-4dd2-bdec-2d7faa61e70b@195.78.49.158:4443?security=reality&amp;encryption=none&amp;pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=github.com&amp;sid=aa7e96542880027a#ARISTA🔥
 vless://2c487d9d-25a1-4b79-aed1-086b8c3082ca@178.239.124.30:56482?security=reality&encryption=none&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudcircus.jp#ARISTA🔥
-vless://ebd8539d-e249-4a39-8f90-e8585e8cc35e@116.80.44.144:27724?security=reality&encryption=none&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.co.jp#ARISTA🔥
+vless://ebd8539d-e249-4a39-8f90-e8585e8cc35e@116.80.44.144:27724?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=reality&type=tcp&sni=www.yahoo.co.jp&fp=chrome&flow=xtls-rprx-vision&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&encryption=none#ARISTA🔥

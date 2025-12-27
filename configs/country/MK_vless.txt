@@ -1,5 +1,5 @@
 # 🇲🇰 MK - VLESS
-# Updated: 2025-12-26 19:23:39
+# Updated: 2025-12-27 04:31:16
 # Count: 8
 
 vless://62e18440-148d-4b82-8a14-160c35144ffd@gamma-smart-agent-worker-wild.dlcnamatike7.com:19771?path=/&security=none&encryption=none&type=ws#ARISTA🔥

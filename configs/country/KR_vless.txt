@@ -1,5 +1,5 @@
 # 🇰🇷 KR - VLESS
-# Updated: 2025-12-26 19:23:39
+# Updated: 2025-12-27 04:31:16
 # Count: 4
 
 vless://5d42cfef-0556-4f0c-bfb7-161aef500ab5@222.102.51.111:51698/?type=grpc&encryption=none&flow=&sni=lenovoglobal.com&fp=chrome&security=reality&pbk=PPZbDAYSwCYnPCF8BxguTFfAAZTnLnzpsHePCkGZYxo&sid=34#ARISTA🔥

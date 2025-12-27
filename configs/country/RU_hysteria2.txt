@@ -1,5 +1,5 @@
 # 🇷🇺 RU - HYSTERIA2
-# Updated: 2025-12-26 19:23:39
+# Updated: 2025-12-27 04:31:16
 # Count: 688
 
 hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#ARISTA🔥

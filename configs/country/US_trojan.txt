@@ -1,5 +1,5 @@
 # 🇺🇸 US - TROJAN
-# Updated: 2025-12-26 19:23:39
+# Updated: 2025-12-27 04:31:16
 # Count: 4
 
 trojan://iWnFtzMiac@205.185.115.223:19258/?type=grpc&serviceName=&authority=&security=reality&pbk=q_lg6VnOGhN_Ow5gHtZoDv_mJp-8W7m51N6vKamsMXk&fp=chrome&sni=cloudflare.com&sid=6d7efa97b2&spx=%2F#ARISTA🔥

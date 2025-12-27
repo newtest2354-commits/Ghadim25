@@ -1,90 +1,68 @@
 # 🇮🇹 IT - All Configurations
-# Updated: 2025-12-26 19:23:39
-# Total: 92
+# Updated: 2025-12-27 04:31:16
+# Total: 70
 
 
-# VLESS (72)
-vless://b2cf96d6-75b4-4f23-aa9a-952bcc470464@141.227.140.105:55759?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ARISTA🔥
-vless://TELEGRAM-CONFiGLiNE-105@de.fastlynew.hosting-ip.com:80?encryption=none&type=xhttp&mode=auto&host=barakanal5.global.ssl.fastly.net&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed%3D2048&security=none#ARISTA🔥
-vless://TELEGRAM-CONFiGLiNE-105@de.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=barakanal5.global.ssl.fastly.net&type=xhttp#ARISTA🔥
-vless://fd08abcb-4ba1-4950-bbf9-449ae291271d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F&security=&encryption=none&host=jetde129.global.ssl.fastly.net&type=xhttp#ARISTA🔥
-vless://a23ec900-0f9d-4ed8-98bc-12e0fb9175f4@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxpl165.global.ssl.fastly.net&type=xhttp#ARISTA🔥
-vless://765fed78-3a22-4507-a4a1-a6e403265dd2@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=&encryption=none&host=maxfr156.global.ssl.fastly.net&type=xhttp#ARISTA🔥
-vless://a8dcf8a4-e552-43fe-aeaa-eb6b6a4dcc2e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=&encryption=none&host=maxpl165.global.ssl.fastly.net&type=xhttp#ARISTA🔥
-vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=blazeft123your-name.global.ssl.fastly.net&type=xhttp#ARISTA🔥
-vless://TELEGRAM-CONFiGLiNE-%20102@de.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=barakanal5.global.ssl.fastly.net&type=xhttp#ARISTA🔥
-vless://92c79723-eb54-4c48-bb81-83423a0e6440@turboo-server-bot.aftabz.com:8080?mode=gun&security=reality&encryption=none&pbk=zLBoalJcQIgIUcegIx0_cCEBvAMJxIbotJA6y50CVHg&fp=chrome&spx=%2F&type=grpc&sni=tgju.org&sid=3bf4f5#ARISTA🔥
-vless://765fed78-3a22-4507-a4a1-a6e403265dd2@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxfr156.global.ssl.fastly.net&type=xhttp#ARISTA🔥
-vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F&security=none&encryption=none&host=blazeft123your-name.global.ssl.fastly.net&type=xhttp#ARISTA🔥
+# VLESS (52)
 vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germandiginoe.com&type=ws&security=none&path=WEDBAZ%3Fed%3D2048&encryption=none#ARISTA🔥
 vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germany.ss.ss&type=ws&security=none&path=WEDBAZ%3Fed%3D2048&encryption=none#ARISTA🔥
+vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=blazeft123your-name.global.ssl.fastly.net&type=xhttp#ARISTA🔥
+vless://c7d76d42-cf84-47a8-aa5f-5134c536c326@5.249.155.77:34521?encryption=none&security=tls&sni=google.com&fp=chrome&pbk=YbuDQVoIuucjsRYp1gHCJk4s9QsYbAiUKZoNUwvUaVw&sid=7bc779c7&packetEncoding=xudp#ARISTA🔥
+vless://92c79723-eb54-4c48-bb81-83423a0e6440@turboo-server-bot.aftabz.com:8080?mode=gun&security=reality&encryption=none&pbk=zLBoalJcQIgIUcegIx0_cCEBvAMJxIbotJA6y50CVHg&fp=chrome&spx=%2F&type=grpc&sni=tgju.org&sid=3bf4f5#ARISTA🔥
+vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#ARISTA🔥
+vless://765fed78-3a22-4507-a4a1-a6e403265dd2@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=&encryption=none&host=maxfr156.global.ssl.fastly.net&type=xhttp#ARISTA🔥
 vless://030550a6-5d3a-4a7e-bf67-cd0caa052ddd@trt.fastlynew.hosting-ip.com:80?encryption=none&type=xhttp&mode=auto&host=maxfr123.global.ssl.fastly.net&path=/?ed%3D2560&security=none#ARISTA🔥
-vless://a9c5ad15-776d-45b8-b853-c20a92084f27@usaa.fastlynew.hosting-ip.com:80?path=%2Ftelegeam-%40v2_city--%3Fed%3D2048&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#ARISTA🔥
-vless://5d2e0fa5-fe75-4013-c1e9-85617b861cb7@usaa.fastlynew.hosting-ip.com:80?path=%2Ftelegeam-%40v2_city--%3Fed%3D2048&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#ARISTA🔥
-vless://b8653fb6-6a78-4bc1-e89d-1ed171e4b56e@usaa.fastlynew.hosting-ip.com:80?path=%2Ftelegeam-%40v2_city--%3Fed%3D2048&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#ARISTA🔥
-vless://0da7cec9-ef2a-4b79-efee-c16662086df4@usaa.fastlynew.hosting-ip.com:80?path=%2Ftelegeam-%40v2_city--%3Fed%3D2048&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#ARISTA🔥
-vless://826c7c5e-d110-4966-eda5-b7f45bacd8cc@usaa.fastlynew.hosting-ip.com:80?path=%2Ftelegeam-%40v2_city--%3Fed%3D2048&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#ARISTA🔥
+vless://9323f2c6-fb40-4ee3-890f-9c63b948cb29@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxus112.global.ssl.fastly.net&type=xhttp#ARISTA🔥
+vless://a23ec900-0f9d-4ed8-98bc-12e0fb9175f4@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxpl165.global.ssl.fastly.net&type=xhttp#ARISTA🔥
+vless://b2cf96d6-75b4-4f23-aa9a-952bcc470464@141.227.140.105:55759?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ARISTA🔥
+vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F&security=none&encryption=none&host=blazeft123your-name.global.ssl.fastly.net&type=xhttp#ARISTA🔥
+vless://fd08abcb-4ba1-4950-bbf9-449ae291271d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F&security=&encryption=none&host=jetde129.global.ssl.fastly.net&type=xhttp#ARISTA🔥
 vless://50a9ab6c-1e20-41f2-b0d2-93ddec168ef9@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxfr171.global.ssl.fastly.net&type=xhttp#ARISTA🔥
 vless://7db2fbe9-b42a-4435-b823-2b0b52cbe753@84.17.58.152:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=4ffc99daad0f261f#ARISTA🔥
 vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?encryption=none&security=none&type=xhttp&host=blazeft123your-name.global.ssl.fastly.net&path=/&mode=auto#ARISTA🔥
 vless://73738858-0d45-4e31-ac88-2ee8c5e17af7@freefree.fastlynew.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=freefree1213.global.ssl.fastly.net&type=xhttp#ARISTA🔥
-vless://TELEGRAM-CONFiGLiNE-105@de.fastlynew.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=barakanal5.global.ssl.fastly.net&type=xhttp#ARISTA🔥
 vless://a6b57d25-a1ca-4ce8-8a93-ac5eaaa8dae4@cdi.chekino.ir:20811?security=reality&encryption=none&pbk=80GXkWEUDeEH0poV8IPGiukSZbn1BrMAZt9wxn2q00E&headerType=none&fp=firefox&type=tcp&sni=gameup.ir&sid=22b2598a025a3fde#ARISTA🔥
 vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?encryption=none&security=none&type=xhttp&host=maxde219.global.ssl.fastly.net&path=/?ed=2560&mode=auto#ARISTA🔥
 vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#ARISTA🔥
 vless://febbc960-a868-4e9a-a93b-aa52308b1452@trt.fastlynew.hosting-ip.com:80?encryption=none&security=none&type=xhttp&host=maxpl165.global.ssl.fastly.net&path=/?ed=2560&mode=auto#ARISTA🔥
 vless://73738858-0d45-4e31-ac88-2ee8c5e17af7@freefree.fastlynew.hosting-ip.com:80?mode=auto&path=%2F&security=none&encryption=none&host=freefree1213.global.ssl.fastly.net&type=xhttp#ARISTA🔥
 vless://febbc960-a868-4e9a-a93b-aa52308b1452@trt.fastlynew.hosting-ip.com:80?encryption=none&security=none&type=xhttp&host=maxpl165.global.ssl.fastly.net&path=%2F%3Fed%3D2560&mode=auto#ARISTA🔥
-vless://fdec7980-cae0-41cc-d92b-e3604fef5394@usaa.fastlynew.hosting-ip.com:80?path=%2Ftelegeam-%40v2_city--%3Fed%3D2048&security=&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#ARISTA🔥
 vless://df0af1c8-b758-9acd-6e70-aa85b66cbe62@Itw.sefrtasad.com:3159?security=reality&encryption=none&pbk=6OGcyIWrZ5pcyi5cdzDZdFneV2DDrXKV2c8x_KGnG0Q&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=translation.steampowered.com&sid=21432a79954b#ARISTA🔥
-vless://TELEGRAM-CONFiGLiNE-105@de.fastlynew.hosting-ip.com:80?mode=auto&amp;path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=barakanal5.global.ssl.fastly.net&amp;type=xhttp#ARISTA🔥
 vless://f05818d6-d6cf-f478-ff10-60acef14b7fe@Itw.sefrtasad.com:3159?security=reality&encryption=none&pbk=6OGcyIWrZ5pcyi5cdzDZdFneV2DDrXKV2c8x_KGnG0Q&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=translation.steampowered.com&sid=21432a79954b#ARISTA🔥
-vless://fd08abcb-4ba1-4950-bbf9-449ae291271d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F&security=none&encryption=none&host=jetde129.global.ssl.fastly.net&type=xhttp#ARISTA🔥
-vless://b2cf96d6-75b4-4f23-aa9a-952bcc470464@141.227.140.105:55759?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ARISTA🔥
-vless://TELEGRAM-CONFiGLiNE-105@de.fastlynew.hosting-ip.com:80?encryption=none&type=xhttp&mode=auto&host=barakanal5.global.ssl.fastly.net&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed%3D2048&security=none#ARISTA🔥
-vless://TELEGRAM-CONFiGLiNE-105@de.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=barakanal5.global.ssl.fastly.net&type=xhttp#ARISTA🔥
-vless://fd08abcb-4ba1-4950-bbf9-449ae291271d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F&security=&encryption=none&host=jetde129.global.ssl.fastly.net&type=xhttp#ARISTA🔥
-vless://a23ec900-0f9d-4ed8-98bc-12e0fb9175f4@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxpl165.global.ssl.fastly.net&type=xhttp#ARISTA🔥
-vless://765fed78-3a22-4507-a4a1-a6e403265dd2@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=&encryption=none&host=maxfr156.global.ssl.fastly.net&type=xhttp#ARISTA🔥
-vless://a8dcf8a4-e552-43fe-aeaa-eb6b6a4dcc2e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=&encryption=none&host=maxpl165.global.ssl.fastly.net&type=xhttp#ARISTA🔥
-vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=blazeft123your-name.global.ssl.fastly.net&type=xhttp#ARISTA🔥
-vless://TELEGRAM-CONFiGLiNE-%20102@de.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=barakanal5.global.ssl.fastly.net&type=xhttp#ARISTA🔥
-vless://92c79723-eb54-4c48-bb81-83423a0e6440@turboo-server-bot.aftabz.com:8080?mode=gun&security=reality&encryption=none&pbk=zLBoalJcQIgIUcegIx0_cCEBvAMJxIbotJA6y50CVHg&fp=chrome&spx=%2F&type=grpc&sni=tgju.org&sid=3bf4f5#ARISTA🔥
-vless://765fed78-3a22-4507-a4a1-a6e403265dd2@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxfr156.global.ssl.fastly.net&type=xhttp#ARISTA🔥
-vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F&security=none&encryption=none&host=blazeft123your-name.global.ssl.fastly.net&type=xhttp#ARISTA🔥
+vless://c7d76d42-cf84-47a8-aa5f-5134c536c326@5.249.155.77:34521?security=reality&type=tcp&sni=google.com&fp=chrome&sid=7bc779c7&pbk=YbuDQVoIuucjsRYp1gHCJk4s9QsYbAiUKZoNUwvUaVw&encryption=none#ARISTA🔥
 vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germandiginoe.com&type=ws&security=none&path=WEDBAZ%3Fed%3D2048&encryption=none#ARISTA🔥
 vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germany.ss.ss&type=ws&security=none&path=WEDBAZ%3Fed%3D2048&encryption=none#ARISTA🔥
+vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=blazeft123your-name.global.ssl.fastly.net&type=xhttp#ARISTA🔥
+vless://c7d76d42-cf84-47a8-aa5f-5134c536c326@5.249.155.77:34521?encryption=none&security=tls&sni=google.com&fp=chrome&pbk=YbuDQVoIuucjsRYp1gHCJk4s9QsYbAiUKZoNUwvUaVw&sid=7bc779c7&packetEncoding=xudp#ARISTA🔥
+vless://92c79723-eb54-4c48-bb81-83423a0e6440@turboo-server-bot.aftabz.com:8080?mode=gun&security=reality&encryption=none&pbk=zLBoalJcQIgIUcegIx0_cCEBvAMJxIbotJA6y50CVHg&fp=chrome&spx=%2F&type=grpc&sni=tgju.org&sid=3bf4f5#ARISTA🔥
+vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#ARISTA🔥
+vless://765fed78-3a22-4507-a4a1-a6e403265dd2@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=&encryption=none&host=maxfr156.global.ssl.fastly.net&type=xhttp#ARISTA🔥
 vless://030550a6-5d3a-4a7e-bf67-cd0caa052ddd@trt.fastlynew.hosting-ip.com:80?encryption=none&type=xhttp&mode=auto&host=maxfr123.global.ssl.fastly.net&path=/?ed%3D2560&security=none#ARISTA🔥
-vless://a9c5ad15-776d-45b8-b853-c20a92084f27@usaa.fastlynew.hosting-ip.com:80?path=%2Ftelegeam-%40v2_city--%3Fed%3D2048&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#ARISTA🔥
-vless://5d2e0fa5-fe75-4013-c1e9-85617b861cb7@usaa.fastlynew.hosting-ip.com:80?path=%2Ftelegeam-%40v2_city--%3Fed%3D2048&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#ARISTA🔥
-vless://b8653fb6-6a78-4bc1-e89d-1ed171e4b56e@usaa.fastlynew.hosting-ip.com:80?path=%2Ftelegeam-%40v2_city--%3Fed%3D2048&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#ARISTA🔥
-vless://0da7cec9-ef2a-4b79-efee-c16662086df4@usaa.fastlynew.hosting-ip.com:80?path=%2Ftelegeam-%40v2_city--%3Fed%3D2048&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#ARISTA🔥
-vless://826c7c5e-d110-4966-eda5-b7f45bacd8cc@usaa.fastlynew.hosting-ip.com:80?path=%2Ftelegeam-%40v2_city--%3Fed%3D2048&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#ARISTA🔥
+vless://9323f2c6-fb40-4ee3-890f-9c63b948cb29@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxus112.global.ssl.fastly.net&type=xhttp#ARISTA🔥
+vless://a23ec900-0f9d-4ed8-98bc-12e0fb9175f4@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxpl165.global.ssl.fastly.net&type=xhttp#ARISTA🔥
+vless://b2cf96d6-75b4-4f23-aa9a-952bcc470464@141.227.140.105:55759?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#ARISTA🔥
+vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F&security=none&encryption=none&host=blazeft123your-name.global.ssl.fastly.net&type=xhttp#ARISTA🔥
+vless://fd08abcb-4ba1-4950-bbf9-449ae291271d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F&security=&encryption=none&host=jetde129.global.ssl.fastly.net&type=xhttp#ARISTA🔥
 vless://50a9ab6c-1e20-41f2-b0d2-93ddec168ef9@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxfr171.global.ssl.fastly.net&type=xhttp#ARISTA🔥
 vless://7db2fbe9-b42a-4435-b823-2b0b52cbe753@84.17.58.152:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=4ffc99daad0f261f#ARISTA🔥
 vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?encryption=none&security=none&type=xhttp&host=blazeft123your-name.global.ssl.fastly.net&path=/&mode=auto#ARISTA🔥
 vless://73738858-0d45-4e31-ac88-2ee8c5e17af7@freefree.fastlynew.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=freefree1213.global.ssl.fastly.net&type=xhttp#ARISTA🔥
-vless://TELEGRAM-CONFiGLiNE-105@de.fastlynew.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=barakanal5.global.ssl.fastly.net&type=xhttp#ARISTA🔥
 vless://a6b57d25-a1ca-4ce8-8a93-ac5eaaa8dae4@cdi.chekino.ir:20811?security=reality&encryption=none&pbk=80GXkWEUDeEH0poV8IPGiukSZbn1BrMAZt9wxn2q00E&headerType=none&fp=firefox&type=tcp&sni=gameup.ir&sid=22b2598a025a3fde#ARISTA🔥
 vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?encryption=none&security=none&type=xhttp&host=maxde219.global.ssl.fastly.net&path=/?ed=2560&mode=auto#ARISTA🔥
 vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#ARISTA🔥
 vless://febbc960-a868-4e9a-a93b-aa52308b1452@trt.fastlynew.hosting-ip.com:80?encryption=none&security=none&type=xhttp&host=maxpl165.global.ssl.fastly.net&path=/?ed=2560&mode=auto#ARISTA🔥
 vless://73738858-0d45-4e31-ac88-2ee8c5e17af7@freefree.fastlynew.hosting-ip.com:80?mode=auto&path=%2F&security=none&encryption=none&host=freefree1213.global.ssl.fastly.net&type=xhttp#ARISTA🔥
 vless://febbc960-a868-4e9a-a93b-aa52308b1452@trt.fastlynew.hosting-ip.com:80?encryption=none&security=none&type=xhttp&host=maxpl165.global.ssl.fastly.net&path=%2F%3Fed%3D2560&mode=auto#ARISTA🔥
-vless://fdec7980-cae0-41cc-d92b-e3604fef5394@usaa.fastlynew.hosting-ip.com:80?path=%2Ftelegeam-%40v2_city--%3Fed%3D2048&security=&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#ARISTA🔥
 vless://df0af1c8-b758-9acd-6e70-aa85b66cbe62@Itw.sefrtasad.com:3159?security=reality&encryption=none&pbk=6OGcyIWrZ5pcyi5cdzDZdFneV2DDrXKV2c8x_KGnG0Q&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=translation.steampowered.com&sid=21432a79954b#ARISTA🔥
-vless://TELEGRAM-CONFiGLiNE-105@de.fastlynew.hosting-ip.com:80?mode=auto&amp;path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=barakanal5.global.ssl.fastly.net&amp;type=xhttp#ARISTA🔥
 vless://f05818d6-d6cf-f478-ff10-60acef14b7fe@Itw.sefrtasad.com:3159?security=reality&encryption=none&pbk=6OGcyIWrZ5pcyi5cdzDZdFneV2DDrXKV2c8x_KGnG0Q&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=translation.steampowered.com&sid=21432a79954b#ARISTA🔥
-vless://fd08abcb-4ba1-4950-bbf9-449ae291271d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F&security=none&encryption=none&host=jetde129.global.ssl.fastly.net&type=xhttp#ARISTA🔥
+vless://c7d76d42-cf84-47a8-aa5f-5134c536c326@5.249.155.77:34521?security=reality&type=tcp&sni=google.com&fp=chrome&sid=7bc779c7&pbk=YbuDQVoIuucjsRYp1gHCJk4s9QsYbAiUKZoNUwvUaVw&encryption=none#ARISTA🔥
 
-# TROJAN (8)
+# TROJAN (6)
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&sni=api.avito.ru&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=1#ARISTA🔥
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=api.avito.ru#ARISTA🔥
-trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=api.avito.ru#ARISTA🔥
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=api.avito.ru#ARISTA🔥
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&sni=api.avito.ru&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=1#ARISTA🔥
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=api.avito.ru#ARISTA🔥
-trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=api.avito.ru#ARISTA🔥
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=api.avito.ru#ARISTA🔥
 
 # VMESS (2)

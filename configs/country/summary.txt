@@ -1,69 +1,70 @@
 # Summary
-# Updated: 2025-12-26 19:23:39
-# Total: 9816
+# Updated: 2025-12-27 04:31:16
+# Total: 9836
 # GeoIP: OK
 # Skipped: CN, TW
 
 COUNTRIES:
-  🇷🇺 RU: 1520 configs
-    vless: 764
+  🇷🇺 RU: 1538 configs
+    vless: 778
     hysteria2: 688
-    vmess: 46
-    ss: 22
-  🇺🇸 US: 1310 configs
-    vless: 474
-    hysteria2: 702
+    vmess: 48
+    ss: 24
+  🇺🇸 US: 1342 configs
+    vless: 512
+    hysteria2: 704
     trojan: 4
-    vmess: 92
-    ss: 38
-  🇩🇪 DE: 1154 configs
-    vless: 592
+    vmess: 88
+    ss: 34
+  🇩🇪 DE: 1146 configs
+    vless: 582
     hysteria2: 344
-    trojan: 40
-    vmess: 160
+    trojan: 38
+    vmess: 164
     ss: 18
-  🇳🇱 NL: 548 configs
-    vless: 248
+  🇳🇱 NL: 556 configs
+    vless: 250
     hysteria2: 240
-    vmess: 4
-    ss: 56
-  🇭🇰 HK: 358 configs
+    trojan: 2
+    vmess: 6
+    ss: 58
+  🇭🇰 HK: 360 configs
     vless: 14
     hysteria2: 284
     trojan: 8
-    vmess: 52
-  🇬🇧 GB: 314 configs
-    vless: 142
+    vmess: 54
+  🇬🇧 GB: 320 configs
+    vless: 146
     hysteria2: 60
     trojan: 2
-    vmess: 40
+    vmess: 42
     ss: 70
-  🇵🇱 PL: 302 configs
-    vless: 34
+  🇵🇱 PL: 304 configs
+    vless: 36
     hysteria2: 4
     vmess: 4
     ss: 260
-  🇫🇷 FR: 298 configs
-    vless: 132
-    hysteria2: 38
-    trojan: 32
-    vmess: 86
-    ss: 10
-  🇫🇮 FI: 194 configs
-    vless: 154
+  🇫🇷 FR: 290 configs
+    vless: 128
+    hysteria2: 36
+    trojan: 30
+    vmess: 84
+    ss: 12
+  🇫🇮 FI: 200 configs
+    vless: 162
     hysteria2: 20
     trojan: 2
     vmess: 10
-    ss: 8
-  🇲🇩 MD: 156 configs
-    vless: 122
+    ss: 6
+  🇮🇷 IR: 156 configs
+    vless: 136
+    vmess: 20
+  🇲🇩 MD: 152 configs
+    vless: 118
     vmess: 8
     ss: 26
-  🇮🇷 IR: 152 configs
-    vless: 134
-    vmess: 18
-  🇸🇪 SE: 136 configs
-    vless: 82
+  🇸🇪 SE: 126 configs
+    vless: 72
     tuic: 2
     hysteria2: 48
     ss: 4
@@ -73,70 +74,66 @@ COUNTRIES:
     trojan: 6
     vmess: 22
     ss: 20
-  🇮🇹 IT: 92 configs
-    vless: 72
-    trojan: 8
-    vmess: 2
-    ss: 10
-  🇯🇵 JP: 92 configs
+  🇯🇵 JP: 90 configs
     vless: 28
     hysteria2: 26
     trojan: 12
-    vmess: 20
+    vmess: 18
     ss: 6
   🇸🇬 SG: 82 configs
     vless: 24
     hysteria2: 28
     vmess: 18
     ss: 12
-  🇱🇹 LT: 76 configs
+  🇱🇹 LT: 78 configs
     vless: 12
-    ss: 64
-  🇨🇾 CY: 70 configs
-    vless: 56
-    ss: 14
-  🇻🇳 VN: 70 configs
-    vmess: 2
-    ss: 68
-  🇹🇷 TR: 68 configs
-    vless: 48
+    ss: 66
+  🇻🇳 VN: 78 configs
+    vmess: 4
+    ss: 74
+  🇹🇷 TR: 74 configs
+    vless: 54
     hysteria2: 8
     trojan: 2
     vmess: 2
     ss: 8
-  🇦🇪 AE: 54 configs
+  🇮🇹 IT: 70 configs
+    vless: 52
+    trojan: 6
+    vmess: 2
+    ss: 10
+  🇨🇾 CY: 66 configs
+    vless: 52
+    ss: 14
+  🇦🇪 AE: 46 configs
     vless: 24
     hysteria2: 10
-    trojan: 4
     vmess: 2
-    ss: 14
+    ss: 10
   🇮🇳 IN: 42 configs
     vless: 6
     hysteria2: 24
     vmess: 8
     ss: 4
-  🇨🇭 CH: 38 configs
-    vless: 32
-    ss: 6
   🇦🇹 AT: 38 configs
     vless: 24
     hysteria2: 8
     ss: 6
-  🇮🇪 IE: 26 configs
-    vless: 24
-    ss: 2
+  🇨🇭 CH: 34 configs
+    vless: 28
+    ss: 6
   🇪🇪 EE: 26 configs
     vless: 14
     trojan: 2
     ss: 10
-  🇰🇷 KR: 26 configs
-    vless: 4
-    hysteria2: 16
-    vmess: 6
   🇧🇬 BG: 24 configs
     vless: 16
     vmess: 2
     ss: 6
+  🇰🇷 KR: 24 configs
+    vless: 4
+    hysteria2: 16
+    vmess: 4
   🇲🇽 MX: 24 configs
     hysteria2: 16
     ss: 8
@@ -144,9 +141,6 @@ COUNTRIES:
     vless: 2
     hysteria2: 4
     vmess: 14
-    ss: 2
-  🇭🇺 HU: 20 configs
-    vless: 18
     ss: 2
   🇰🇿 KZ: 20 configs
     vless: 14
@@ -160,17 +154,23 @@ COUNTRIES:
   🇨🇿 CZ: 16 configs
     vless: 14
     ss: 2
-  🇲🇾 MY: 16 configs
-    vless: 2
-    hysteria2: 4
-    vmess: 10
+  🇭🇺 HU: 16 configs
+    vless: 14
+    ss: 2
   🇦🇷 AR: 12 configs
     vless: 2
     hysteria2: 4
     ss: 6
+  🇲🇾 MY: 12 configs
+    vless: 2
+    hysteria2: 4
+    vmess: 6
   🇮🇩 ID: 12 configs
     hysteria2: 8
     vmess: 2
+    ss: 2
+  🇮🇪 IE: 10 configs
+    vless: 8
     ss: 2
   🇱🇻 LV: 10 configs
     vless: 4
@@ -181,9 +181,6 @@ COUNTRIES:
   🇮🇱 IL: 8 configs
     vless: 6
     hysteria2: 2
-  🇧🇪 BE: 8 configs
-    vless: 6
-    ss: 2
   🇦🇺 AU: 8 configs
     vless: 4
     hysteria2: 2
@@ -193,35 +190,40 @@ COUNTRIES:
     ss: 4
   🇸🇮 SI: 8 configs
     ss: 8
+  🇪🇸 ES: 6 configs
+    vless: 6
   🇷🇴 RO: 6 configs
     vless: 2
     trojan: 2
     ss: 2
-  🇪🇸 ES: 6 configs
-    vless: 6
   🇮🇸 IS: 6 configs
     trojan: 2
     ss: 4
-  🇹🇭 TH: 6 configs
-    ss: 6
   🇲🇹 MT: 6 configs
     ss: 6
   🇵🇹 PT: 6 configs
     ss: 6
+  🇧🇪 BE: 4 configs
+    vless: 2
+    ss: 2
+  🇦🇿 AZ: 4 configs
+    vless: 4
+  🇩🇰 DK: 4 configs
+    vless: 4
   🇺🇦 UA: 4 configs
     vless: 2
     hysteria2: 2
   🇱🇮 LI: 4 configs
     vless: 4
+  🇹🇭 TH: 4 configs
+    ss: 4
   🇵🇪 PE: 4 configs
     ss: 4
   🇨🇴 CO: 4 configs
     ss: 4
-  🇲🇪 ME: 2 configs
-    vless: 2
   🇬🇪 GE: 2 configs
     vless: 2
-  🇦🇿 AZ: 2 configs
+  🇲🇪 ME: 2 configs
     vless: 2
   🇺🇿 UZ: 2 configs
     vless: 2
@@ -260,6 +262,6 @@ COUNTRIES:
 
 🔍 NO_HOST: 30
 
-🏴 UNKNOWN: 2060
+🏴 UNKNOWN: 2082
 
 🚫 SKIPPED: 30 configs (China/Taiwan)

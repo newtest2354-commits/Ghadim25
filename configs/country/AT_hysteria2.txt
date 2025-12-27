@@ -1,5 +1,5 @@
 # 🇦🇹 AT - HYSTERIA2
-# Updated: 2025-12-26 19:23:39
+# Updated: 2025-12-27 04:31:16
 # Count: 8
 
 hysteria2://freehomesvpnchannel3@channel2.saghetalaie.homes:46914/?insecure=1&obfs=salamander&obfs-password=%26O%2328YB5qK%215t%23U&sni=www.google.com#ARISTA🔥

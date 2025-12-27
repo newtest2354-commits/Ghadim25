@@ -1,5 +1,5 @@
 # 🇺🇦 UA - HYSTERIA2
-# Updated: 2025-12-26 19:23:39
+# Updated: 2025-12-27 04:31:16
 # Count: 2
 
 hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@185.126.255.78:43429?sni=real.getafreenode.sbs&amp;insecure=1&amp;security=tls#ARISTA🔥

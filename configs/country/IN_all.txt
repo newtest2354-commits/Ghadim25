@@ -1,5 +1,5 @@
 # 🇮🇳 IN - All Configurations
-# Updated: 2025-12-26 19:23:39
+# Updated: 2025-12-27 04:31:16
 # Total: 42
 
 
@@ -12,8 +12,8 @@ vless://1edafc20-cffb-4921-bb2b-f00ce9864c5c@45.88.183.157:23803?encryption=none
 vless://1edafc20-cffb-4921-bb2b-f00ce9864c5c@45.88.183.157:23803?security=&encryption=none&headerType=none&type=tcp#ARISTA🔥
 
 # HYSTERIA2 (24)
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.24.101.176:30102?security=tls&insecure=1#ARISTA🔥
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-3.nezhasu.com:443?sni=mumbai-3.nezhasu.com&insecure=1&mport=50000-65535#ARISTA🔥
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.24.101.176:30102?security=tls&insecure=1#ARISTA🔥
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.24.101.176:30102?insecure=1#ARISTA🔥
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-1.nezhasu.com:443?insecure=1&sni=mumbai-1.nezhasu.com#ARISTA🔥
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-2.nezhasu.com:443?insecure=1&sni=mumbai-2.nezhasu.com#ARISTA🔥
@@ -24,8 +24,8 @@ hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-2.nezhasu.com:443?securi
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-3.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=mumbai-3.nezhasu.com#ARISTA🔥
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-4.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=mumbai-4.nezhasu.com#ARISTA🔥
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.24.101.176:30102?security=tls&amp;insecure=1#ARISTA🔥
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.24.101.176:30102?security=tls&insecure=1#ARISTA🔥
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-3.nezhasu.com:443?sni=mumbai-3.nezhasu.com&insecure=1&mport=50000-65535#ARISTA🔥
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.24.101.176:30102?security=tls&insecure=1#ARISTA🔥
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.24.101.176:30102?insecure=1#ARISTA🔥
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-1.nezhasu.com:443?insecure=1&sni=mumbai-1.nezhasu.com#ARISTA🔥
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-2.nezhasu.com:443?insecure=1&sni=mumbai-2.nezhasu.com#ARISTA🔥
@@ -40,11 +40,11 @@ hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.24.101.176:30102?security=t
 # VMESS (8)
 vmess://eyJhZGQiOiIxMDMuOTcuMjAzLjIyMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidC5tZS92MkxpbmUiLCJpZCI6IjllMGU4M2NhLTBmYmMtNDRiMS04MDI0LTBlYjhmOTQxNDE1NiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTUwIiwicHMiOiJBUklTVEHwn5SlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiQVJJU1RB8J+UpSIsImFkZCI6ImlkMS53cGFpcnBsYW5lLmNvbSIsInBvcnQiOjkwMDAsInR5cGUiOiJodHRwIiwiaWQiOiJkOTZhYjI0OC03MzNmLTQyNWEtOGUyZC1kNGM4ODgyMmFhNWEiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiYS4xODkuY24iLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJuYW1lIjoiPj5AdjJub2Rlczo6SU4ifQ==
-vmess://eyJhZGQiOiIxMDMuOTcuMjAzLjIyMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidC5tZS92MkxpbmUiLCJpZCI6IjllMGU4M2NhLTBmYmMtNDRiMS04MDI0LTBlYjhmOTQxNDE1NiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTUwIiwicHMiOiJBUklTVEHwn5SlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJpZDEud3BhaXJwbGFuZS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImEuMTg5LmNuIiwiaWQiOiJkOTZhYjI0OC03MzNmLTQyNWEtOGUyZC1kNGM4ODgyMmFhNWEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI5MDAwIiwicHMiOiJBUklTVEHwn5SlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiQVJJU1RB8J+UpSIsImFkZCI6ImlkMS53cGFpcnBsYW5lLmNvbSIsInBvcnQiOiI5MDAwIiwidHlwZSI6Imh0dHAiLCJpZCI6ImQ5NmFiMjQ4LTczM2YtNDI1YS04ZTJkLWQ0Yzg4ODIyYWE1YSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJhLjE4OS5jbiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vmess://eyJhZGQiOiIxMDMuOTcuMjAzLjIyMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidC5tZS92MkxpbmUiLCJpZCI6IjllMGU4M2NhLTBmYmMtNDRiMS04MDI0LTBlYjhmOTQxNDE1NiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTUwIiwicHMiOiJBUklTVEHwn5SlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiQVJJU1RB8J+UpSIsImFkZCI6ImlkMS53cGFpcnBsYW5lLmNvbSIsInBvcnQiOjkwMDAsInR5cGUiOiJodHRwIiwiaWQiOiJkOTZhYjI0OC03MzNmLTQyNWEtOGUyZC1kNGM4ODgyMmFhNWEiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiYS4xODkuY24iLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJuYW1lIjoiPj5AdjJub2Rlczo6SU4ifQ==
-vmess://eyJhZGQiOiIxMDMuOTcuMjAzLjIyMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidC5tZS92MkxpbmUiLCJpZCI6IjllMGU4M2NhLTBmYmMtNDRiMS04MDI0LTBlYjhmOTQxNDE1NiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTUwIiwicHMiOiJBUklTVEHwn5SlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJpZDEud3BhaXJwbGFuZS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImEuMTg5LmNuIiwiaWQiOiJkOTZhYjI0OC03MzNmLTQyNWEtOGUyZC1kNGM4ODgyMmFhNWEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI5MDAwIiwicHMiOiJBUklTVEHwn5SlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiQVJJU1RB8J+UpSIsImFkZCI6ImlkMS53cGFpcnBsYW5lLmNvbSIsInBvcnQiOiI5MDAwIiwidHlwZSI6Imh0dHAiLCJpZCI6ImQ5NmFiMjQ4LTczM2YtNDI1YS04ZTJkLWQ0Yzg4ODIyYWE1YSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJhLjE4OS5jbiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 
 # SS (4)

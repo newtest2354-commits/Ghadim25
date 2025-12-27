@@ -1,11 +1,10 @@
 # 🇸🇬 SG - VLESS
-# Updated: 2025-12-26 19:23:39
+# Updated: 2025-12-27 04:31:16
 # Count: 24
 
-vless://7519638e-b786-4279-baaf-8501548caf1f@143.198.222.68:42409?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#ARISTA🔥
-vless://8d5911d9-f9f9-484f-8f67-5729ab5fd1af@92.243.74.239:8443?path=%2Fsnippets%3Fip%3Dtw.tp81.netlib.re%3A81&security=tls&encryption=none&type=ws&sni=saas.cfliu.filegear-sg.me#ARISTA🔥
-vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless.hubp.de#ARISTA🔥
 vless://5ca102f1-41cc-4731-84cc-6cdcd07e3424@27.50.48.102:443?path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=random&type=ws&sni=vless.hubp.de#ARISTA🔥
+vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless.hubp.de#ARISTA🔥
+vless://8d5911d9-f9f9-484f-8f67-5729ab5fd1af@92.243.74.239:8443?path=%2Fsnippets%3Fip%3Dtw.tp81.netlib.re%3A81&security=tls&encryption=none&type=ws&sni=saas.cfliu.filegear-sg.me#ARISTA🔥
 vless://bfb7355f-da10-470c-99d2-16c5061c403a@152.42.185.230:23675?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=m.zoom.us&type=ws#ARISTA🔥
 vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=/snippets/ip&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#ARISTA🔥
 vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#ARISTA🔥
@@ -13,11 +12,11 @@ vless://a3e65839-adcf-404f-8076-c8bf6dcdadd1@158.178.229.178:443?encryption=none
 vless://ea0ba1f9-87dc-4599-8532-c94a61b5fda6@167.99.73.22:443?encryption=none&type=ws&host=joss.gpj4.web.id&path=%2FFree-VPN-CF-Geo-Project%2FSG5192&security=tls&fp=randomized&sni=joss.gpj4.web.id#ARISTA🔥
 vless://302F9975-C787-44E4-8492-79C0C6AC2ADD@sg1-r.link-t7.com:10036?encryption=none&type=grpc&serviceName=update&security=reality&fp=chrome&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sni=s0.awsstatic.com&sid=686c0ef0#ARISTA🔥
 vless://1bcfabf7-c143-4dab-989b-2b663e7e69c8@free.tharuwa.store:80?encryption=none&type=ws&host=zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none#ARISTA🔥
-vless://bfb7355f-da10-470c-99d2-16c5061c403a@152.42.185.230:23675?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&amp;security=none&amp;encryption=none&amp;host=m.zoom.us&amp;type=ws#ARISTA🔥
-vless://7519638e-b786-4279-baaf-8501548caf1f@143.198.222.68:42409?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#ARISTA🔥
-vless://8d5911d9-f9f9-484f-8f67-5729ab5fd1af@92.243.74.239:8443?path=%2Fsnippets%3Fip%3Dtw.tp81.netlib.re%3A81&security=tls&encryption=none&type=ws&sni=saas.cfliu.filegear-sg.me#ARISTA🔥
-vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless.hubp.de#ARISTA🔥
+vless://bfb7355f-da10-470c-99d2-16c5061c403a@152.42.185.230:23675?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&amp;security=&amp;encryption=none&amp;host=m.zoom.us&amp;type=ws#ARISTA🔥
+vless://a4cb890e-8251-488e-9439-3403c9a58e55@free-server.techsonic.cloud:443?security=tls&encryption=none&headerType=none&allowinsecure=0&type=tcp#ARISTA🔥
 vless://5ca102f1-41cc-4731-84cc-6cdcd07e3424@27.50.48.102:443?path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=random&type=ws&sni=vless.hubp.de#ARISTA🔥
+vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless.hubp.de#ARISTA🔥
+vless://8d5911d9-f9f9-484f-8f67-5729ab5fd1af@92.243.74.239:8443?path=%2Fsnippets%3Fip%3Dtw.tp81.netlib.re%3A81&security=tls&encryption=none&type=ws&sni=saas.cfliu.filegear-sg.me#ARISTA🔥
 vless://bfb7355f-da10-470c-99d2-16c5061c403a@152.42.185.230:23675?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=m.zoom.us&type=ws#ARISTA🔥
 vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=/snippets/ip&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#ARISTA🔥
 vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#ARISTA🔥
@@ -25,4 +24,5 @@ vless://a3e65839-adcf-404f-8076-c8bf6dcdadd1@158.178.229.178:443?encryption=none
 vless://ea0ba1f9-87dc-4599-8532-c94a61b5fda6@167.99.73.22:443?encryption=none&type=ws&host=joss.gpj4.web.id&path=%2FFree-VPN-CF-Geo-Project%2FSG5192&security=tls&fp=randomized&sni=joss.gpj4.web.id#ARISTA🔥
 vless://302F9975-C787-44E4-8492-79C0C6AC2ADD@sg1-r.link-t7.com:10036?encryption=none&type=grpc&serviceName=update&security=reality&fp=chrome&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sni=s0.awsstatic.com&sid=686c0ef0#ARISTA🔥
 vless://1bcfabf7-c143-4dab-989b-2b663e7e69c8@free.tharuwa.store:80?encryption=none&type=ws&host=zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none#ARISTA🔥
-vless://bfb7355f-da10-470c-99d2-16c5061c403a@152.42.185.230:23675?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&amp;security=none&amp;encryption=none&amp;host=m.zoom.us&amp;type=ws#ARISTA🔥
+vless://bfb7355f-da10-470c-99d2-16c5061c403a@152.42.185.230:23675?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&amp;security=&amp;encryption=none&amp;host=m.zoom.us&amp;type=ws#ARISTA🔥
+vless://a4cb890e-8251-488e-9439-3403c9a58e55@free-server.techsonic.cloud:443?security=tls&encryption=none&headerType=none&allowinsecure=0&type=tcp#ARISTA🔥

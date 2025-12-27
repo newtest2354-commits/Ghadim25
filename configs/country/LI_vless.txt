@@ -1,5 +1,5 @@
 # 🇱🇮 LI - VLESS
-# Updated: 2025-12-26 19:23:39
+# Updated: 2025-12-27 04:31:16
 # Count: 4
 
 vless://v1bsy2b9q5@45.15.167.35:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=v1bsy2b9q5-451516735-direct.bahame.co#ARISTA🔥

@@ -1,5 +1,5 @@
 # 🇨🇦 CA - TROJAN
-# Updated: 2025-12-26 19:23:39
+# Updated: 2025-12-27 04:31:16
 # Count: 6
 
 trojan://Fv7ogJ6vfz@209.200.246.53:36774/?type=grpc&serviceName=&authority=&security=reality&pbk=QX1ITiHw0tTKi5ouMn-6mE2-Hb0-gk25N67gP2sQ-nU&fp=chrome&sni=cloudflare.com&sid=3e&spx=%2F#ARISTA🔥

@@ -1,5 +1,5 @@
 # 🇪🇪 EE - TROJAN
-# Updated: 2025-12-26 19:23:39
+# Updated: 2025-12-27 04:31:16
 # Count: 2
 
 trojan://tunnel-astrovpn_official917@5.188.200.224:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none&host=5.188.200.224#ARISTA🔥
